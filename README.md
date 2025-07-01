@@ -8,6 +8,10 @@ Browse my projects by category:
 - DNA Sequence Analyzer | https://github.com/sylaung/Cpp-DNA-Analyzer
 - Astronomy Catalog | https://github.com/sylaung/Cpp-Astronomy-Catalog
 
+## Python
 
-
-
+- QR Code Generator | https://github.com/sylaung/Python-QR-Code-Generator
+-
+-
+-
+-
