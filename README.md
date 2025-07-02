@@ -13,6 +13,4 @@ Browse my projects by category:
 - QR Code Generator | https://github.com/sylaung/Python-QR-Code-Generator
 - Site Connectivity Checker | https://github.com/sylaung/Python-Site-Connectivity-Checker
 - Face Detection | https://github.com/sylaung/Python-Face-Detection
-- 
--
--
+  
