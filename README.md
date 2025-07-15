@@ -4,7 +4,7 @@ Browse my projects by category:
 
 ## Full-Stack JavaScript Project (MERN Stack - MongoDB, Express, React, Node.js)
 
-- MERN Notes App | https://github.com/sylaung/MERN-Notely
+- MERN Notes App | https://github.com/sylaung/MERN-Notely | [Deployed Site](https://notely-qqxg.onrender.com)
 
 ## C++
 
