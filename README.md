@@ -2,9 +2,13 @@
 
 Browse my projects by category:
 
-## Full-Stack JavaScript Project (MERN Stack - MongoDB, Express, React, Node.js)
+## Android Development (Kotlin, Jetpack Compose)
 
-- MERN Notes App | https://github.com/sylaung/MERN-Notely | [Deployed Site](https://notely-qqxg.onrender.com)
+- Tea Journal App | https://github.com/sylaung/Kotlin-TeaJournal
+  
+## Full-Stack JavaScript (MERN Stack)
+
+- MERN Notes App | https://github.com/sylaung/MERN-Notely | [Live Demo](https://notely-qqxg.onrender.com)
 
 ## C++
 
